@@ -1,0 +1,8 @@
+body{background-color:#EAF6F6}
+hr {background-color: WHITE;
+  border-style: dotted none none;
+   width: 5% ;
+ border-color: grey;}
+h1,h3{color: #66BFBF}
+img{height: 150px;border-radius: 75%;}
+.form{text-align: center;}
